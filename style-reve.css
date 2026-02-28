@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon site de rêve</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: linear-gradient(to right, #fceabb, #f8b500);
+        }
+
+        header {
+            background-color: #AAD1F0;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+
+        nav {
+            background-color: #F0AAAA;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #FFFFFF;
+        }
+
+        main {
+            background-color: #D5F0AA;
+            width: 80%;
+            margin: 40px auto;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            color: #2c3e50;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #F0AAAA;
+            color: white;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>🌏 Mon site de rêve</h1>
+</header>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="laboite.html">La Boxe</a>
+    <a href="voyages.html">Les Voyages</a>
+    <a href="site-reve.html">Mon site de rêve</a>
+</nav>
+
+<main>
+    <h2>Mon pays de rêve : Le Japon 🇯🇵</h2>
+
+    <p>Mon pays de rêve est le Japon.</p>
+
+    <p>J’aimerais visiter Tokyo, découvrir la culture japonaise et voir les temples.</p>
+
+    <ul>
+        <li>🌄 Découvrir les paysages</li>
+        <li>🍣 Manger des spécialités locales</li>
+        <li>🤖 Explorer la technologie moderne</li>
+    </ul>
+</main>
+
+<footer>
+    © 2026 - Mon Site Web
+</footer>
+
+</body>
+</html>
